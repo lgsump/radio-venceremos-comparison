@@ -1,0 +1,9 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://example.com/collection.json",
+    "type": "Collection",
+    "label": { "en": [ "Radio Venceremos Comparison" ] },
+    "summary": { "en": [ "Comparing the English and Spanish annotations by Vera P Burrows. " ] },
+    "items": [
+    ]
+}
